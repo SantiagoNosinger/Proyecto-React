@@ -1,0 +1,82 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #5E91AB
+  }
+  
+  .texto{
+    font-family: 'Roboto Slab', serif;
+    color: #2F4858;
+    font-size: 80px;
+    
+  }
+  
+  .segunda-linea {
+    display: block; 
+    line-height: 0.5;
+    font-size: 95px;
+    padding-top: 1pxs;
+  }
+  /*colores de letras*/
+  .verde{
+    color: #25D366;
+  }
+  
+  .azul{
+    color: #3b5998;
+  }
+  
+  .rojo{
+    color: rgb(211, 94, 94);
+  }
+  
+  .requisito{
+    color:rgb(219, 112, 11)
+  }
+  
+  .twitter{
+    color: #00acee;
+  }
+  .rojo{
+    color: rgb(216, 27, 90);
+  }
+  /*Gradientes*/
+  .presentacion{
+    background-color: rgba(0, 0, 0, 0.7)
+     
+  
+  }
+  
+  
+  .shadow-drop-center{animation:shadow-drop-center 0.4s linear both} @keyframes shadow-drop-center{0%{box-shadow:0 0 0 0 transparent}100%{box-shadow:0 0 20px 0 rgba(255,255,255,.55)}}
+  .gradientesdivs{
+    background-color: rgba(215, 240, 243, 0.9);
+  }
+  
+  
+  
+  .scale-up-center{animation:scale-up-center 0.4s; } @keyframes scale-up-center{ 0%{transform:scale(.5)} 100%{transform:scale(1)} }
+  
+  
+  .navbar {
+    background-color: rgba(170, 239, 250, 0.3); 
+    position: absolute; 
+    width: 100%;
+    padding: 4px;
+    text-align: center; 
+    z-index: 800;
+    
+  }
+  .diseñoTitulo{
+    
+    color: #d8d3d3;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 1px 1px 1px grey
+  }
+  
+  
+  

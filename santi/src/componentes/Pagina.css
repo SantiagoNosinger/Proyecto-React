@@ -1,0 +1,75 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #5E91AB
+  }
+  
+  .texto{
+    font-family: 'Roboto Slab', serif;
+    color: #2F4858;
+    font-size: 80px;
+    
+  }
+  
+  .letras1{
+    font-family: 'Roboto Slab', serif;
+    color: #2F4858;
+  }
+  .segunda-linea {
+    display: block; 
+    line-height: 0.5;
+    font-size: 95px;
+    padding-top: 1pxs;
+  }
+  /*colores de letras*/
+  .verde{
+    color: #25D366;
+  }
+  
+  .azul{
+    color: #3b5998;
+  }
+  
+  .rojo{
+    color: rgb(211, 94, 94);
+  }
+  
+  .requisito{
+    color:rgb(219, 112, 11)
+  }
+  
+  .twitter{
+    color: #00acee;
+  }
+  .rojo{
+    color: rgb(216, 27, 90);
+  }
+  /*Gradientes*/
+  .presentacion{
+    background-color: rgba(0, 0, 0, 0.7)
+     
+  
+  }
+  
+  
+  .shadow-drop-center{animation:shadow-drop-center 0.4s linear both} @keyframes shadow-drop-center{0%{box-shadow:0 0 0 0 transparent}100%{box-shadow:0 0 20px 0 rgba(255,255,255,.55)}}
+  
+  .gradienteLetras{
+    background-color: rgb(192, 248, 245);
+  }
+  .gradientesdivs{
+    background-color: rgba(187, 234, 240, 0.9);
+  }
+  
+
+  .gradienteContacto{
+    background-color: #567ac9
+  }
+  
+  .rounded {
+    border-radius: 80%; 
+  }
