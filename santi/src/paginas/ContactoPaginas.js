@@ -28,9 +28,9 @@ export default class Contacto extends React.Component {
         return (
             <div>
                 <div className="container-fluid">
-                    <div className="row p-4 text-center">
+                    <div className="row p-4 m-5 text-center">
                         <div className="col-12 col-sm-6 mx-auto">               
-                            <h1 className="texto">Pablo M.<span className="segunda-linea texto"> Nösinger</span></h1>
+                            <h1 className="texto m-5">Pablo M.<span className="segunda-linea texto"> Nösinger</span></h1>
                             <h5 className="pt-5 text-white">Profesional experto y apasionado que brinda atención personalizada del más alto nivel en la búsqueda de tu hogar. Nuestra experiencia permitirá que tu compra o venta sea un éxito.</h5>
                         </div>
                     </div>
